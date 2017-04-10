@@ -35,7 +35,6 @@ yf=yu*f
 zf=zu*f
 
 %quiver3(xo,yo,zo,ax,ay,az,0); hold on;
-
 quiver3(xd,yd,zd,xf,yf,zf,0,'linewidth',3);
 hold off;
 end
